@@ -1,6 +1,7 @@
 # Joint-and-Conditional-PDFs-Plots
-Given the joint pdf of random variables X and Y and c is normalising constant. 
-![](https://github.com/ashcode028/Joint-and-Conditional-PDFs-Plots/blob/93c1ac849b5057e81dc12051c57b777aebfaf2d9/joint_pdf.jpg)
+Given below is the joint pdf of random variables X and Y and c is normalising constant.\
+![](https://github.com/ashcode028/Joint-and-Conditional-PDFs-Plots/blob/93c1ac849b5057e81dc12051c57b777aebfaf2d9/joint_pdf.jpg)<br/>
+Plotting their marginals, joint pdfs, conditional pdf for a given x or y is done in __MATLAB__.
 ## Plot Joint PDF f(x,y)
 1. First we will initialise range spaces of x and y
 2. Then form a grid with x and y coordinates
